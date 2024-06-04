@@ -1,3 +1,3 @@
-# shiftride-single-page
+# shiftride-single-page-com
 
 Under construction single page
